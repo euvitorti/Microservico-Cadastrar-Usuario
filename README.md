@@ -28,5 +28,8 @@ spring.datasource.username=Seu_Usuario_Do_Banco
 spring.datasource.password=Sua_Senha_Do_Banco
 ```
 
+## Microserviço de enviar email
+[Repositório](https://github.com/euvitorti/Microservico-Enviar-Email)
+
 ## Contribuições
 Sinta-se à vontade para contribuir para o projeto! Qualquer feedback é bem-vindo.
